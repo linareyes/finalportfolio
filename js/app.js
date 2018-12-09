@@ -13,7 +13,7 @@ $(document).mouseup(function (e) {
 });
 
 
-
+/*this is for doors opening*/
 $(document).ready(function() {
 	// Users can skip the loading process if they want.
 	$('.skip').click(function() {

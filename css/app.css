@@ -519,7 +519,7 @@ ul > li span {
     width: 0px;
   }
   100% {
-    width: 70%;
+    width: 90%;
   }
 }
 @keyframes css3 {
@@ -527,7 +527,7 @@ ul > li span {
     width: 0px;
   }
   100% {
-    width: 90%;
+    width: 75%;
   }
 }
 @keyframes jquery {
@@ -773,7 +773,11 @@ footer p {
   transition: background 0.25s ease-in-out;
   z-index: 5;
 }
+h4{color:white;}
 
+.textcontact {
+  color:white;
+}
 .contact-panel-button:after {
   content: "⥣";
   margin-left: 5px;
